@@ -7,3 +7,54 @@
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:47:29 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:47:29 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/app.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+5:48:37 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+5:48:37 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+svelte config changed, restarting vite dev-server. changed file: /home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/svelte.config.js
+5:50:52 AM [vite] Cannot find package '@sveltejs/adapter-static' imported from /home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/svelte.config.js
+5:50:52 AM [vite] server restart failed
