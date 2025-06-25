@@ -2,15 +2,8 @@
 > svelte@0.0.1 dev
 > vite dev --host 0.0.0.0 --cors --port 3000
 
-5:37:42 AM [vite] (client) Forced re-optimization of dependencies
 
-  VITE v6.2.1  ready in 913 ms
+  VITE v6.2.1  ready in 787 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
-5:42:53 AM [vite] (client) ✨ new dependencies optimized: clsx
-5:42:53 AM [vite] (client) ✨ optimized dependencies changed. reloading
-5:44:03 AM [vite] (ssr) page reload src/routes/+page.svelte
-5:44:07 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
-5:44:07 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
-5:44:07 AM [vite] (ssr) page reload .svelte-kit/generated/root.svelte
