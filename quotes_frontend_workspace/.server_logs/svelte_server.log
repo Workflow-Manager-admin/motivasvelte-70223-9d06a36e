@@ -26,3 +26,50 @@
 5:56:40 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
 5:56:40 AM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
 5:56:40 AM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js
+SvelteKitError: Not found: /preview.html
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:531:13)
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:321:5)
+    at Object.handle (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/src/hooks.server.js:15:28)
+    at respond (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:318:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:547:22 {
+  status: 404,
+  text: 'Not Found'
+}
+6:02:42 AM [vite] (client) ✨ new dependencies optimized: devalue
+6:02:42 AM [vite] (client) ✨ optimized dependencies changed. reloading
+SvelteKitError: Not found: /preview.html
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:531:13)
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:321:5)
+    at Object.handle (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/src/hooks.server.js:15:28)
+    at respond (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:318:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:547:22 {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /preview.html
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:531:13)
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:321:5)
+    at Object.handle (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/src/hooks.server.js:15:28)
+    at respond (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:318:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:547:22 {
+  status: 404,
+  text: 'Not Found'
+}
+svelte config changed, restarting vite dev-server. changed file: /home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/svelte.config.js
+6:02:54 AM [vite] server restarted.
+SvelteKitError: Not found: /preview.html
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:531:13)
+    at resolve (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:321:5)
+    at Object.handle (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/src/hooks.server.js:15:28)
+    at respond (/home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/runtime/server/respond.js:318:40)
+    at async file:///home/kavia/workspace/code-generation/motivasvelte-70223-9d06a36e/quotes_frontend_workspace/quotes_frontend/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:547:22 {
+  status: 404,
+  text: 'Not Found'
+}
+6:02:59 AM [vite] (ssr) page reload .svelte-kit/generated/root.js
+6:02:59 AM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+6:02:59 AM [vite] (ssr) page reload .svelte-kit/generated/root.svelte
+6:03:02 AM [vite] (client) page reload build/index.html

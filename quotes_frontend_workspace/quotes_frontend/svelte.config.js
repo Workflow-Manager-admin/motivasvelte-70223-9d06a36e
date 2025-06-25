@@ -10,10 +10,9 @@ const config = {
 	kit: {
 		// Use the static adapter for zero-config static site export
 		adapter: adapter({
-			// default output folder is 'build'
 			pages: 'build',
 			assets: 'build',
-			fallback: null
+			fallback: 'index.html'
 		}),
 		csrf: {
 			checkOrigin: false
