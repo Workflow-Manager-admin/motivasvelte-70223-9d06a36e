@@ -4,8 +4,11 @@ import { render, screen } from '@testing-library/svelte';
 import Page from './+page.svelte';
 
 describe('/+page.svelte', () => {
-	test('should render h1', () => {
+	test('renders a quote and author', () => {
 		render(Page);
-		expect(screen.getByRole('heading', { level: 1 })).toBeInTheDocument();
+		const blockquote = screen.getByText((content) => !!content && content.length > 10);
+		const author = screen.getByText((content) => content.startsWith('— '));
+		expect(blockquote).toBeInTheDocument();
+		expect(author).toBeInTheDocument();
 	});
 });
